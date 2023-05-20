@@ -24,6 +24,7 @@ Important metrics such as Revenue, Revenue contribution %, Revenue LY, Total Pro
 I'd like to express my gratitude to Dhaval Patel and Hemanand Vadivel sir for this great project. Please feel free to comment on the areas where I can improve, as I'd love to hear from everyone.
 
 Link to project playlist - https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9
+
 The link to the downloadable resource are on the codebasics website.
 
 Thank you.
